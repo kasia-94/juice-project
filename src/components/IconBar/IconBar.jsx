@@ -1,7 +1,7 @@
 import { NavLink } from 'react-router-dom';
-import iconOrange from '../../assets/orange-juice.png';
-import iconMango from '../../assets/mango-juice.png';
-import iconLychee from '../../assets/lychee-juice.png';
+import iconOrange from '../../assets/orange-juice.webp';
+import iconMango from '../../assets/mango-juice.webp';
+import iconLychee from '../../assets/lychee-juice.webp';
 import { Item, List } from './IconBar.styled';
 
 const icon = [

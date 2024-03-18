@@ -1,7 +1,7 @@
 import styled, { createGlobalStyle } from 'styled-components';
-import backgroundOrange from '../assets/orange-theme.png';
-import backgroundMango from '../assets/mango-theme.png';
-import backgroundLychee from '../assets/lychee-theme.png';
+import backgroundOrange from '../assets/orange-theme.webp';
+import backgroundMango from '../assets/mango-theme.webp';
+import backgroundLychee from '../assets/lychee-theme.webp';
 export const GlobalStyles = createGlobalStyle`
 
 html {

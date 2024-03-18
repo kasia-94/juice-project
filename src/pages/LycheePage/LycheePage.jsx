@@ -1,7 +1,7 @@
 import { BackgroundLychee, Container } from 'components/GlobalStyles';
 import { Header } from 'components/Header/Header';
 import { Product } from 'components/Product/Product';
-import hero from '../../assets/lychee-juice.png';
+import hero from '../../assets/lychee-juice.webp';
 
 export const LycheePage = () => {
   return (

@@ -2,7 +2,7 @@ import { BackgroundOrange, Container } from 'components/GlobalStyles';
 
 import { Header } from 'components/Header/Header';
 import { Product } from 'components/Product/Product';
-import hero from '../../assets/orange-juice.png';
+import hero from '../../assets/orange-juice.webp';
 
 export const OrangePage = () => {
   return (
