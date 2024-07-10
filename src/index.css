@@ -13,5 +13,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   color: white;
   line-height: 1.4;
-  background-color: gray;
+  min-height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }

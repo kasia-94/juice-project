@@ -6,7 +6,6 @@ export const GlobalStyles = createGlobalStyle`
 
 html {
   height: 100%;
-
 }
 
 h1,
@@ -43,7 +42,7 @@ code {
 export const Container = styled.div`
   margin-right: auto;
   margin-left: auto;
-  height: 100%;
+  min-height: 100vh;
 
   @media screen and (min-width: 320px) {
     width: 300px;
@@ -77,9 +76,6 @@ export const BackgroundOrange = styled.div`
   max-width: 100%;
   flex-grow: 1;
   z-index: 100;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 `;
 
 export const BackgroundMango = styled.div`
@@ -89,9 +85,6 @@ export const BackgroundMango = styled.div`
   max-width: 100%;
   flex-grow: 1;
   z-index: 100;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 `;
 
 export const BackgroundLychee = styled.div`
@@ -100,7 +93,4 @@ export const BackgroundLychee = styled.div`
   max-width: 100%;
   flex-grow: 1;
   z-index: 100;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
 `;
