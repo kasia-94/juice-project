@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/juice-project/static/css/main.f50e09b0.css",
-    "main.js": "/juice-project/static/js/main.4eb1d74f.js",
+    "main.css": "/juice-project/static/css/main.fe0cc420.css",
+    "main.js": "/juice-project/static/js/main.af6fd0a6.js",
     "static/media/mango-theme.webp": "/juice-project/static/media/mango-theme.f61e358f076d6ac76c3f.webp",
     "static/media/orange-theme.webp": "/juice-project/static/media/orange-theme.78e6267f9ff51c791fec.webp",
     "static/media/lychee-theme.webp": "/juice-project/static/media/lychee-theme.a4f5ae042b335b15d022.webp",
     "static/media/lychee-juice.webp": "/juice-project/static/media/lychee-juice.7f239ea5df1b9b0a8f57.webp",
     "static/media/orange-juice.webp": "/juice-project/static/media/orange-juice.9bdad878de1b40b1bed7.webp",
-    "static/media/logo.svg": "/juice-project/static/media/logo.5cc7d1d52728aecbab1da1282efe75b0.svg",
+    "static/media/logo.svg": "/juice-project/static/media/logo.625f4aa6790a7df9ac632772f4c03e7f.svg",
     "static/media/mango-juice.webp": "/juice-project/static/media/mango-juice.468ac2e335478de57781.webp",
+    "static/media/about-image.webp": "/juice-project/static/media/about-image.b9954d436c2cf054b66f.webp",
     "index.html": "/juice-project/index.html",
-    "main.f50e09b0.css.map": "/juice-project/static/css/main.f50e09b0.css.map",
-    "main.4eb1d74f.js.map": "/juice-project/static/js/main.4eb1d74f.js.map"
+    "main.fe0cc420.css.map": "/juice-project/static/css/main.fe0cc420.css.map",
+    "main.af6fd0a6.js.map": "/juice-project/static/js/main.af6fd0a6.js.map"
   },
   "entrypoints": [
-    "static/css/main.f50e09b0.css",
-    "static/js/main.4eb1d74f.js"
+    "static/css/main.fe0cc420.css",
+    "static/js/main.af6fd0a6.js"
   ]
 }
